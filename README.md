@@ -24,22 +24,23 @@ https://www.checkiday.com/01/19/2016
 
 Events: 
 ...
-1883 – The first electric lighting system employing overhead wires, built by Thomas Edison, begins service at Roselle, New Jersey.
-1977 – Snow falls in Miami. This is the only time in the history of the city that snow has fallen. It also fell in The Bahamas.
-1983 – The Apple Lisa, the first commercial personal computer from Apple Inc. to have a graphical user interface and a computer mouse, is announced.
+-1883 – The first electric lighting system employing overhead wires, built by Thomas Edison, begins service at Roselle, New Jersey.
+-1977 – Snow falls in Miami. This is the only time in the history of the city that snow has fallen. It also fell in The Bahamas.
+-1983 – The Apple Lisa, the first commercial personal computer from Apple Inc. to have a graphical user interface and a computer mouse, is announced.
 ...
 
 Births:
 ...
-1959 – Danese Cooper, American computer scientist and programmer
-1871 – Dame Gruev, Bulgarian educator and activist, co-founded the Internal Macedonian Revolutionary Organization (d. 1906)
-1809 – Edgar Allan Poe, American short story writer, critic, and poet (d. 1849)
+-1959 – Danese Cooper, American computer scientist and programmer
+-1871 – Dame Gruev, Bulgarian educator and activist, co-founded the Internal Macedonian Revolutionary Organization (d. 1906)
+-1809 – Edgar Allan Poe, American short story writer, critic, and poet (d. 1849)
 ...
 
 Deaths:
 ...
-2015 – Adam Yahiye Gadahn, American terrorist and Al-Qaeda spokesperson (b. 1978)
+-2015 – Adam Yahiye Gadahn, American terrorist and Al-Qaeda spokesperson (b. 1978)
 ...
+
 help from:
 https://en.wikipedia.org/wiki/January_19
 
